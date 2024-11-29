@@ -3,9 +3,13 @@ This project showcases a fully functional and responsive e-commerce website deve
 The website is designed to provide an engaging shopping experience with features like product categories, a user-friendly interface, and a responsive layout suitable for all devices.
 ## Features
 Responsive Design: Works seamlessly across desktops, tablets, and mobile devices.
+
 Product Categories: Easy navigation with category-wise product listings.
+
 Interactive UI: Smooth animations and interactive elements enhance user experience.
+
 Functional Backend: Built with PHP for dynamic content management.
+
 Free Source Code: Fully customizable and ready for deployment.
 
 ## Installation
