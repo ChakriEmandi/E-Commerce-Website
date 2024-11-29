@@ -22,7 +22,7 @@ Set up a local server (e.g., XAMPP) and place the project files in the server's 
 Open phpMyAdmin and create a database.
 Import the provided SQL file (database.sql).
 Configure database connection in the config.php file.
-Start your local server and access the website at http://localhost/ecommerce-website.
+Start your local server and access the website at http://localhost/website.
 
 ### Screenshots
 Add screenshots here to showcase the UI and features.
